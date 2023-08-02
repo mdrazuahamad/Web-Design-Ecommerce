@@ -36,6 +36,7 @@ body {
   cursor: pointer;
 }
 
+
 .custom-dropdwon {
   position: relative;
 }
@@ -549,10 +550,17 @@ body {
       margin-top: 41px;
       margin-bottom: 12px;
 
+      img{
+        width: 147px;
+
+      }
+
     }
     a{
       color: #313131;
       text-decoration: none;
+
+      
 
     }
 
